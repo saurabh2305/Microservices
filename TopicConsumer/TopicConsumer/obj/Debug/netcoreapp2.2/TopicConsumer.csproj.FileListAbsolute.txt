@@ -1,0 +1,11 @@
+D:\MicroServices\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.deps.json
+D:\MicroServices\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.runtimeconfig.json
+D:\MicroServices\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.runtimeconfig.dev.json
+D:\MicroServices\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.dll
+D:\MicroServices\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.csproj.CoreCompileInputs.cache
+D:\MicroServices\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.AssemblyInfoInputs.cache
+D:\MicroServices\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.AssemblyInfo.cs
+D:\MicroServices\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.csprojAssemblyReference.cache
+D:\MicroServices\TopicConsumer\TopicConsumer\bin\Debug\netcoreapp2.2\TopicConsumer.pdb
+D:\MicroServices\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.dll
+D:\MicroServices\TopicConsumer\TopicConsumer\obj\Debug\netcoreapp2.2\TopicConsumer.pdb

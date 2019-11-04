@@ -1,0 +1,11 @@
+D:\MicroServices\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.deps.json
+D:\MicroServices\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.runtimeconfig.json
+D:\MicroServices\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.runtimeconfig.dev.json
+D:\MicroServices\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.dll
+D:\MicroServices\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.csprojAssemblyReference.cache
+D:\MicroServices\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.csproj.CoreCompileInputs.cache
+D:\MicroServices\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.AssemblyInfoInputs.cache
+D:\MicroServices\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.AssemblyInfo.cs
+D:\MicroServices\Publisher\Publisher\bin\Debug\netcoreapp2.2\Publisher.pdb
+D:\MicroServices\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.dll
+D:\MicroServices\Publisher\Publisher\obj\Debug\netcoreapp2.2\Publisher.pdb

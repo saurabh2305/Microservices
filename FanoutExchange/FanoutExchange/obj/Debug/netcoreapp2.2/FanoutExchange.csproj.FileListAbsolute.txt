@@ -1,0 +1,11 @@
+D:\MicroServices\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp2.2\FanoutExchange.deps.json
+D:\MicroServices\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp2.2\FanoutExchange.runtimeconfig.json
+D:\MicroServices\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp2.2\FanoutExchange.runtimeconfig.dev.json
+D:\MicroServices\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp2.2\FanoutExchange.dll
+D:\MicroServices\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp2.2\FanoutExchange.csprojAssemblyReference.cache
+D:\MicroServices\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp2.2\FanoutExchange.csproj.CoreCompileInputs.cache
+D:\MicroServices\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp2.2\FanoutExchange.AssemblyInfoInputs.cache
+D:\MicroServices\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp2.2\FanoutExchange.AssemblyInfo.cs
+D:\MicroServices\FanoutExchange\FanoutExchange\bin\Debug\netcoreapp2.2\FanoutExchange.pdb
+D:\MicroServices\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp2.2\FanoutExchange.dll
+D:\MicroServices\FanoutExchange\FanoutExchange\obj\Debug\netcoreapp2.2\FanoutExchange.pdb

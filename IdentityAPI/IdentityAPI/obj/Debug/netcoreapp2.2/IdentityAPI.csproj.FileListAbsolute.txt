@@ -1,0 +1,14 @@
+D:\MicroServices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.deps.json
+D:\MicroServices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.json
+D:\MicroServices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.runtimeconfig.dev.json
+D:\MicroServices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csprojAssemblyReference.cache
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.csproj.CoreCompileInputs.cache
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cache
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorAssemblyInfo.cs
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfoInputs.cache
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.AssemblyInfo.cs
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.RazorTargetAssemblyInfo.cache
+D:\MicroServices\IdentityAPI\IdentityAPI\bin\Debug\netcoreapp2.2\IdentityAPI.pdb
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.dll
+D:\MicroServices\IdentityAPI\IdentityAPI\obj\Debug\netcoreapp2.2\IdentityAPI.pdb

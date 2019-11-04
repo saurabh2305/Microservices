@@ -1,0 +1,11 @@
+D:\MicroServices\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.deps.json
+D:\MicroServices\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.json
+D:\MicroServices\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.runtimeconfig.dev.json
+D:\MicroServices\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.dll
+D:\MicroServices\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csprojAssemblyReference.cache
+D:\MicroServices\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.csproj.CoreCompileInputs.cache
+D:\MicroServices\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfoInputs.cache
+D:\MicroServices\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.AssemblyInfo.cs
+D:\MicroServices\TopicPublisher\TopicPublisher\bin\Debug\netcoreapp2.2\TopicPublisher.pdb
+D:\MicroServices\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.dll
+D:\MicroServices\TopicPublisher\TopicPublisher\obj\Debug\netcoreapp2.2\TopicPublisher.pdb

@@ -1,0 +1,11 @@
+D:\MicroServices\ConsumerDirect\ConsumerDirect\bin\Debug\netcoreapp2.2\ConsumerDirect.deps.json
+D:\MicroServices\ConsumerDirect\ConsumerDirect\bin\Debug\netcoreapp2.2\ConsumerDirect.runtimeconfig.json
+D:\MicroServices\ConsumerDirect\ConsumerDirect\bin\Debug\netcoreapp2.2\ConsumerDirect.runtimeconfig.dev.json
+D:\MicroServices\ConsumerDirect\ConsumerDirect\bin\Debug\netcoreapp2.2\ConsumerDirect.dll
+D:\MicroServices\ConsumerDirect\ConsumerDirect\obj\Debug\netcoreapp2.2\ConsumerDirect.csproj.CoreCompileInputs.cache
+D:\MicroServices\ConsumerDirect\ConsumerDirect\obj\Debug\netcoreapp2.2\ConsumerDirect.AssemblyInfoInputs.cache
+D:\MicroServices\ConsumerDirect\ConsumerDirect\obj\Debug\netcoreapp2.2\ConsumerDirect.AssemblyInfo.cs
+D:\MicroServices\ConsumerDirect\ConsumerDirect\bin\Debug\netcoreapp2.2\ConsumerDirect.pdb
+D:\MicroServices\ConsumerDirect\ConsumerDirect\obj\Debug\netcoreapp2.2\ConsumerDirect.csprojAssemblyReference.cache
+D:\MicroServices\ConsumerDirect\ConsumerDirect\obj\Debug\netcoreapp2.2\ConsumerDirect.dll
+D:\MicroServices\ConsumerDirect\ConsumerDirect\obj\Debug\netcoreapp2.2\ConsumerDirect.pdb

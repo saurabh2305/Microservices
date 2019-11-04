@@ -1,0 +1,11 @@
+D:\MicroServices\DirectPublisher\DirectPublisher\bin\Debug\netcoreapp2.2\DirectPublisher.deps.json
+D:\MicroServices\DirectPublisher\DirectPublisher\bin\Debug\netcoreapp2.2\DirectPublisher.runtimeconfig.json
+D:\MicroServices\DirectPublisher\DirectPublisher\bin\Debug\netcoreapp2.2\DirectPublisher.runtimeconfig.dev.json
+D:\MicroServices\DirectPublisher\DirectPublisher\bin\Debug\netcoreapp2.2\DirectPublisher.dll
+D:\MicroServices\DirectPublisher\DirectPublisher\obj\Debug\netcoreapp2.2\DirectPublisher.csprojAssemblyReference.cache
+D:\MicroServices\DirectPublisher\DirectPublisher\obj\Debug\netcoreapp2.2\DirectPublisher.csproj.CoreCompileInputs.cache
+D:\MicroServices\DirectPublisher\DirectPublisher\obj\Debug\netcoreapp2.2\DirectPublisher.AssemblyInfoInputs.cache
+D:\MicroServices\DirectPublisher\DirectPublisher\obj\Debug\netcoreapp2.2\DirectPublisher.AssemblyInfo.cs
+D:\MicroServices\DirectPublisher\DirectPublisher\bin\Debug\netcoreapp2.2\DirectPublisher.pdb
+D:\MicroServices\DirectPublisher\DirectPublisher\obj\Debug\netcoreapp2.2\DirectPublisher.dll
+D:\MicroServices\DirectPublisher\DirectPublisher\obj\Debug\netcoreapp2.2\DirectPublisher.pdb

@@ -1,0 +1,11 @@
+D:\MicroServices\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.deps.json
+D:\MicroServices\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.runtimeconfig.json
+D:\MicroServices\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.runtimeconfig.dev.json
+D:\MicroServices\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.dll
+D:\MicroServices\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.csprojAssemblyReference.cache
+D:\MicroServices\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.csproj.CoreCompileInputs.cache
+D:\MicroServices\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.AssemblyInfoInputs.cache
+D:\MicroServices\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.AssemblyInfo.cs
+D:\MicroServices\FanoutPublisher\FanoutPublisher\bin\Debug\netcoreapp2.2\FanoutPublisher.pdb
+D:\MicroServices\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.dll
+D:\MicroServices\FanoutPublisher\FanoutPublisher\obj\Debug\netcoreapp2.2\FanoutPublisher.pdb
